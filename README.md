@@ -51,9 +51,15 @@ This project implements a Deep Learning model to classify handwritten digits (0�
 👨‍💻 Author Details
 
 Name: Chandra Bhanu Dey
+
 Course: B.Tech in Computer Science & Engineering (CSE) – 5th Semester
+
 College: CUPGS, Biju Patnaik University of Technology (BPUT), Rourkela, Odisha
+
 Internship: CodTech Data Science Internship
+
 Task: Task 2 – Deep Learning Based Image Classification
+
 Email: deycghandrabhanu3@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/chandrabhanu-dey-086ba8284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
